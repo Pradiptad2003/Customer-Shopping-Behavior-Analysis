@@ -36,7 +36,7 @@ The analysis covered:
 
 ## Dashboard
 
-![Power BI Dashboard Preview]([https://github.com/user-attachments/assets/your-image-link-here]([https://github.com/Pradiptad2003/Customer-Shopping-Behavior-Analysis/raw/refs/heads/main/Customer%20Behavior%20Dashboard.pbix](https://github.com/Pradiptad2003/Customer-Shopping-Behavior-Analysis/raw/refs/heads/main/Customer%20Behavior%20Dashboard.pbix)))
+![Power BI Dashboard Preview]([[https://github.com/user-attachments/assets/your-image-link-here]](https://drive.google.com/file/d/1be69F99EkqKpl7rVIp4CaA3l7mv7zVj1/view?usp=sharing)()))
 
 An interactive Power BI dashboard was created to present key customer and business insights through visualizations.
 
