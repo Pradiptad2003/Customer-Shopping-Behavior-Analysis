@@ -36,9 +36,9 @@ The analysis covered:
 
 ## Dashboard
 
-![Power BI Dashboard Preview]([[https://github.com/user-attachments/assets/your-image-link-here]](https://drive.google.com/file/d/1be69F99EkqKpl7rVIp4CaA3l7mv7zVj1/view?usp=sharing)()))
+[![Power BI Dashboard Preview](https://img.shields.io/badge/View_Dashboard-Google_Drive-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1be69F99EkqKpl7rVIp4CaA3l7mv7zVj1/view?usp=sharing)
 
-An interactive Power BI dashboard was created to present key customer and business insights through visualizations.
+An interactive Power BI dashboard was created to present key customer and business insights through visualizations. You can view the full dashboard report via the link above.
 
 ## Key Recommendations
 
