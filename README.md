@@ -36,6 +36,8 @@ The analysis covered:
 
 ## Dashboard
 
+![Power BI Dashboard Preview](https://github.com/user-attachments/assets/your-image-link-here)
+
 An interactive Power BI dashboard was created to present key customer and business insights through visualizations.
 
 ## Key Recommendations
